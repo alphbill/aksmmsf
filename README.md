@@ -1,2 +1,1 @@
-# aksmmsf
-Akşam Sefası Denizde Sürülür
+# Kral Benim Neden Anlamıyorsunuz.
